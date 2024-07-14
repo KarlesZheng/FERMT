@@ -6,7 +6,7 @@
 
 ## News
 
-**[Oct. 28, 2022]**
+**[July. 2, 2024]**
 - Our paper is accepted by ECCV2024 !
 
 
